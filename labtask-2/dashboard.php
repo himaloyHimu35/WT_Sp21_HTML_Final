@@ -8,7 +8,7 @@
 	 <a href="Allstudents.php"  target="_blank">All Student</a> <br> <br>
 	 <a href="addstudents.php " target="_blank">ADD Student</a> <br> <br>
 	 <a href="editstudents.php" target="_blank">Edit Student</a> <br> <br>
-	 <a href="https://www.w3schools.com/">More</a> 
+	 <a href="#">More</a> 
 </div>
 </body>
 </html>
